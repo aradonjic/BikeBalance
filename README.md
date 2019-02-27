@@ -1,6 +1,6 @@
 # BikeBalance
 
-BikeBalance is a project I have started working on during my fellowship at Insight Data Science. 
+BikeBalance is a project I have started developing during my fellowship at Insight Data Science. 
 
 ## Problem statement
 Users of a bike-share service expect that that each bike station in the network will always have a bike available when they need one and also an empty dock to drop of a bike. This is acheived by station "rebalancing": removing the bikes from the stations that do not have enough docks and bringing the bikes to the stations that do not have enough bikes. Bike balancing, often done ad-hoc and by eye, faces challenges due to traffic and weather and becomes unfeasible as the bike share network continues to grow. I developed a tool that predicts day-to-day bike demand across the network to plan efficient and timely station re-balancing.
